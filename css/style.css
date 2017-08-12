@@ -21,10 +21,11 @@ body {
 
 #header .header-caption {
     color: #fff;
+     text-shadow: 2px 2px #291f1a;
     font-family: 'Verdana', sans-serif;
     text-align: left;
 
-    padding: 10% 7%;
+padding: 10% 7%;
 }
 
 #header .header-caption h1 {
